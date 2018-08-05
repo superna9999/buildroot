@@ -1,0 +1,5 @@
+config BR2_TARGET_AML_S905X_CC_FIP
+	bool "aml-s905x-cc fip"
+	depends on BR2_aarch64
+	help
+	  Amlogic FIP boot firmwares for AML-S905X-CC

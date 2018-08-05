@@ -1458,6 +1458,9 @@ N:	Naumann Andreas <ANaumann@ultratronik.de>
 F:	package/evemu/
 F:	package/libevdev/
 
+N:	Neil Armstrong <narmstrong@baylibre.com>
+F:	boot/aml-s905x-cc-fip/
+
 N:	Nicolas Cavallari <nicolas.cavallari@green-communications.fr>
 F:	package/libgit2/
 
